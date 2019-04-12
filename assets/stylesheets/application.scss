@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gifslist {
+  width: 14vw;
+  img {
+    width: 100%;
+  }
+}
